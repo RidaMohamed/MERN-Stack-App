@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://Thalder:Thalder@cluster0-nyril.mongodb.net/Anam_Note_DB?retryWrites=true",
+    "jwtSecret": "Thalder**"
+}
